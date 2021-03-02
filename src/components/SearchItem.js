@@ -7,7 +7,7 @@ const SearchItem = ({ item }) => {
         <div>
             <h3>
                 {item.title}{" "}
-                <a href={item.url} target="_blank">
+                <a href={item.url} target="_blank" rel="noreferrer">
                     (Read more here)
                 </a>
             </h3>
