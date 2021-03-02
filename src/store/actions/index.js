@@ -1,0 +1,1 @@
+export { searchHackerNews } from "./hackerNews";
