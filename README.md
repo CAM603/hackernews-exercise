@@ -1,4 +1,4 @@
-# Welcome to Hackernews Unstyled
+# Welcome to Hacker News Unstyled
 
 ## Instructions
 
